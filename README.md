@@ -2,7 +2,7 @@
 
 I am using the [LazyVim](https://github.com/LazyVim/LazyVim) as a nvim starter template.
 
-And I add some toggelterm and neo-tree configs for myself.
+And I add some toggelterm and neo-tree configs etc. for myself.
 
 
 See more:
